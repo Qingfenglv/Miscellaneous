@@ -3,6 +3,7 @@
     $ sudo apt-get install docbook-xsl
     $ sudo apt-get install xsltproc xmlto
     $ sudo apt-get install make
+    $ sudo apt-get install git
 
 # 测试
 
