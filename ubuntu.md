@@ -1,6 +1,8 @@
 # Ubuntu 环境安装
 
     $ sudo apt-get install docbook-xsl
+    $ sudo apt-get install xsltproc xmlto
+    $ sudo apt-get install make
 
 # 测试
 
